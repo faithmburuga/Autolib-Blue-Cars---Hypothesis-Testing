@@ -5,7 +5,7 @@
 WEEK 4 PROJECT, MAY 2020\
 {By Faithelizabeth Mburuga}
 
-**Description**
+**Description**\
 Test the hypothesis that the mean number of bluecars taken in different postal codes are significantly different over the weekend has been made.
 
 **Experimental Design**
@@ -21,7 +21,7 @@ Test the hypothesis that the mean number of bluecars taken in different postal c
 4. Github
 
 **Known Bugs**\
-There are no known bugs in this project\
+There are no known bugs in this project
 
 **Technologies Used**\
 {Python}
