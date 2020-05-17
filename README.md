@@ -1,8 +1,9 @@
-# Autolib-Blue-Cars---Hypothesis-Testing
+# Autolib-Blue-Cars-Hypothesis-Testing
+
 **A PYTHON PROJECT ON HYPOTHESIS TESTING** 
 
 WEEK 4 PROJECT, MAY 2020
-By Faithelizabeth Mburuga
+{By Faithelizabeth Mburuga}
 
 **Description**
 Test the hypothesis that the mean number of bluecars taken in different postal codes are significantly different over the weekend has been made.
@@ -23,9 +24,9 @@ Test the hypothesis that the mean number of bluecars taken in different postal c
 There are no known bugs in this project\
 
 **Technologies Used**
-Python\
+{Python}
 
 **Suport and Contact Details**
-Any issues, questions,ideas,concerns,or contributions to the code are highly encouraged.\
+{Any issues, questions,ideas,concerns,or contributions to the code are highly encouraged.}
 
-Contacts: fmburuga@gmail.com\
+{Contacts: fmburuga@gmail.com}
