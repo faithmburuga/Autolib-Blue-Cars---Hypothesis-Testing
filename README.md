@@ -24,9 +24,9 @@ Test the hypothesis that the mean number of bluecars taken in different postal c
 There are no known bugs in this project
 
 **Technologies Used**\
-{Python}
+Python
 
 **Suport and Contact Details**\
-{Any issues, questions,ideas,concerns,or contributions to the code are highly encouraged.}
+Any issues, questions,ideas,concerns,or contributions to the code are highly encouraged.
 
 {Contacts: fmburuga@gmail.com}
