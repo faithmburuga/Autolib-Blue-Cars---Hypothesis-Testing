@@ -2,7 +2,7 @@
 
 **A PYTHON PROJECT ON HYPOTHESIS TESTING** 
 
-WEEK 4 PROJECT, MAY 2020
+WEEK 4 PROJECT, MAY 2020\
 {By Faithelizabeth Mburuga}
 
 **Description**
@@ -20,13 +20,13 @@ Test the hypothesis that the mean number of bluecars taken in different postal c
 3. Python libraries
 4. Github
 
-**Known Bugs**
+**Known Bugs**\
 There are no known bugs in this project\
 
-**Technologies Used**
+**Technologies Used**\
 {Python}
 
-**Suport and Contact Details**
+**Suport and Contact Details**\
 {Any issues, questions,ideas,concerns,or contributions to the code are highly encouraged.}
 
 {Contacts: fmburuga@gmail.com}
